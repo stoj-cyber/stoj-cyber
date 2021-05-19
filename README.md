@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @stoj-cyber
 - 👀 I’m interested in Programming languages
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Python
 - 📫 How to reach me in TG
 
 <!---
