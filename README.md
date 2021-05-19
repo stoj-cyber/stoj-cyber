@@ -7,6 +7,6 @@
 stoj-cyber/stoj-cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- TOP LANGUAGES :
+### TOP LANGUAGES :
 
 ![TOP LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=stoj-cyber&show_icons=true&theme=radical)
