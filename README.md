@@ -1,3 +1,12 @@
+### FAV LANGUAGES :
+![c](https://img.shields.io/badge/1-C-blue)
+![Java](https://img.shields.io/badge/2-JAVA-red)
+![Python](https://img.shields.io/badge/3-PYTHON-yellow)
+![Css](https://img.shields.io/badge/4-CSS-brightgreen)
+![HTML](https://img.shields.io/badge/5-HTML-lightgrey)
+![JavaScript](https://img.shields.io/badge/5-JAVASCRIPT-orange)
+![cplusplus](https://img.shields.io/badge/1-C++-blue)
+
 - 👋 Hi, I’m @stoj-cyber
 - 👀 I’m interested in Programming languages
 - 🌱 I’m currently learning Python
