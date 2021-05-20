@@ -3,9 +3,13 @@
 ![Java](https://img.shields.io/badge/2-JAVA-red)
 ![Python](https://img.shields.io/badge/3-PYTHON-yellow)
 ![Css](https://img.shields.io/badge/4-CSS-brightgreen)
-![HTML](https://img.shields.io/badge/5-HTML-lightgrey)
+![HTML](https://img.shields.io/badge/5-HTML-white)
 ![JavaScript](https://img.shields.io/badge/5-JAVASCRIPT-orange)
-![cplusplus](https://img.shields.io/badge/1-C++-blue)
+![cplusplus](https://img.shields.io/badge/6-C++-blue)
+![msg](https://img.shields.io/badge/!-BEGINNER-cyan)
+![pro](https://img.shields.io/badge/!-NOT_PRO-green)
+![FUNCTION](https://img.shields.io/badge/!-CURRENTLY_STAY_SAFE_YOUR_HOME-darkred)
+
 
 - 👋 Hi, I’m @stoj-cyber
 - 👀 I’m interested in Programming languages
