@@ -22,9 +22,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### GITHUB STATUS :
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stoj-cyber" alt="stoj-cyber" /></a> </p>
+<!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stoj-cyber" alt="stoj-cyber" /></a> </p> --->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stoj-cyber&show_icons=true&locale=en" alt="stoj-cyber" /></p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stoj-cyber&theme=dracula)](https://github.com/stoj-cyber/github-readme-activity-graph)
 
 ### TOP LANGUAGES :
  ![TOP LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=stoj-cyber&show_icons=true&theme=radical)
