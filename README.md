@@ -1,5 +1,5 @@
 ### FAV LANGUAGES :
-![c](https://img.shields.io/badge/1-C-blue)
+![c](https://img.shields.io/badge/1-C-blue2)[](https://github.com/stoj-cyber)
 ![Java](https://img.shields.io/badge/2-JAVA-red)
 ![Python](https://img.shields.io/badge/3-PYTHON-yellow)
 ![Css](https://img.shields.io/badge/4-CSS-brightgreen)
