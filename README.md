@@ -8,7 +8,7 @@
 ![cplusplus](https://img.shields.io/badge/6-C++-ff69b4)
 ![msg](https://img.shields.io/badge/!-BEGINNER-cyan)
 ![pro](https://img.shields.io/badge/!-NOT_PRO-green)
-![FUNCTION](https://img.shields.io/badge/!-CURRENTLY_STAY_SAFE_YOUR_HOME-darkred)
+<!-- ![FUNCTION](https://img.shields.io/badge/!-CURRENTLY_STAY_SAFE_YOUR_HOME-darkred) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stoj-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="stoj-cyber" /> </p>
 
 - 👋 Hi, I’m @stoj-cyber
