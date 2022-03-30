@@ -13,7 +13,7 @@
 
 - 👋 Hi, I’m @stoj-cyber
 - 👀 I’m interested in Programming languages
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning (ongoing).
 
 <!---
 stoj-cyber/stoj-cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
